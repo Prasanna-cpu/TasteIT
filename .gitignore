@@ -1,6 +1,10 @@
 xxx.txt
 
 server/node_modules/
+<<<<<<< HEAD
 client
 
 .env
+=======
+client/node_modules/
+>>>>>>> 21bdbddc74a0f68b18c4405ea2e70812d86f6a49
